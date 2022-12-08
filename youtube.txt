@@ -1,0 +1,29 @@
+Hello guys, I am David. Welcome to my place.
+根据final assessment的要求我创建了这个网站，在这里您可以了解到我的一些个人信息包括我的受教育经历和我目前掌握的开发技术。希望可以从您那里得到我的第一个程序员offer。Thank you！
+
+打开网页后，首先看到的是我全家在班芙的合影，虽然时间已经过去了5年但那仍然是值得怀念的美好回忆。好的，言归正传目前您看到的就是主页。在这部分中，我使用的是最常规的布局，header内我放入了导航栏，分别是HOME/ABOUT ME/EDUCATION/SKILLS/CONTACT ME. 根据这样的布局您可以了解到我的网站分为了5个部分，从名字就可以知道每个部分的意义。在首页，我使用了8国语言问候，同时我还展示了我的个人爱好。在底部，我加入了两个常规的功能，一个是名为resume的button，当点击这个按键后可以一键下载我的个人resume，另一个功能是名为Contact Me的button，当点击这个按键后可以直接导航至contact me页面。
+
+本网站的about，education，skills都是静态展示，包括了个人信息，诚信声明，教育经历和所掌握技能。
+
+网站的最后一部分是contact me，是设计最为复杂的部分。我参照了网上的很多设计，最终采用了目前的这种方案。
+我对每一个input框添加了placeholder功能，方便提示用户在输入信息的时候更好的识别。同时，我为每一个input框绑定了事件，并对相关的输入条件进行了约束，比如在输入Email的时候必须有@符号，在输入地址的时候必须大于10个字符，在输入postal code的时候按照加拿大的postal code规则进行约束，否则将提示用户非法输入。
+
+下面我将为大家演示响应式布局的效果。
+
+在本次作业的设计中我遇到了很多困难，主要来自于两个方面。1. 设计失误，因为经验有限所以在设计的时候并没有考虑全面，导致作业不断的修改。2. 逻辑缺陷。因为本人技术水平有限，虽然在作业完成期间参阅了许多网站的设计但在逻辑设计上缺乏经验，目前网站的状态经历了多次的调整，是截止目前最好的状态。经历了本次作业，我认为参阅更多的设计，阅读更多的代码才是初学者在设计网页的时候应该做的。本次作业对我来说是一次巨大的挑战，我力求完成一个视觉友好，界面通用，容易维护的网站，希望您在体验后留下您的建议。
+
+Hello guys, I am David. Welcome to my place.
+According to the requirements of the final assessment, I created this website, where you can learn some of my personal information, including my education experience and the development technology I currently master. Hope to get my first programmer offer from you. Thank you!
+
+After opening the webpage, the first thing I saw was a group photo of my family in Banff. Although it has been 5 years, it is still a good memory worth remembering. Okay, without further ado, so here you are looking at the home page. In this part, I use the most conventional layout, and I put the navigation bar in the header, which are HOME/ABOUT ME/EDUCATION/SKILLS/CONTACT ME. 
+
+According to this layout, you can understand that my website is divided into There are 5 parts, and the meaning of each part can be known from the name. On the homepage, I used 8 languages to greet, and I also showed my personal hobbies. At the bottom, I added two regular functions, one is a button called resume, when you click this button, you can download my personal resume with one click, and the other function is a button called Contact Me, when you click this button You can navigate directly to the contact me page.
+
+The about, education, and skills of this website are all static displays, including personal information, integrity statement, educational experience, and acquired skills.
+
+The last part of the website, the contact me, is the most complex to design. I referred to many designs on the Internet, and finally adopted the current scheme.
+I added a placeholder function to each input box to facilitate prompting the user to better identify when entering information. At the same time, I have bound events for each input box and constrained the relevant input conditions. For example, when entering an email, there must be an @ symbol, when entering an address, it must be greater than 10 characters, and when entering a postal code It must be constrained according to the Canadian postal code rules, otherwise the user will be prompted for illegal input.
+
+Below I will demonstrate the effect of responsive layout for you.
+
+In the design of this assignment, I encountered many difficulties, mainly from two aspects. 1. Design mistakes, due to limited experience, did not consider comprehensively during the design, resulting in continuous modification of the operation. 2. Logical flaws. Due to my limited technical level, although I have consulted many website designs during the completion of the assignment, I lack experience in logic design. The current website status has undergone many adjustments, and it is the best state so far. After this homework, I think that referring to more designs and reading more codes is what beginners should do when designing web pages. This assignment is a huge challenge for me. I strive to complete a website that is visually friendly, has a common interface and is easy to maintain. I hope you will leave your suggestions after the experience.
